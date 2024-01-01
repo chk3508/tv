@@ -30,7 +30,7 @@ http://l-ui.cn.qdxdh.com:59981/stream/channelid/531453017?auth=PsAcjHFlH0pa7P9aE
 #EXTINF:-1 tvg-id="4d9094dac7591de0985fe33a00a6c513" mux-name="gdlist.m3u - 广东体育",广东体育
 http://l-ui.cn.qdxdh.com:59981/stream/channelid/1735259381?auth=PsAcjHFlH0pa7P9aEglKtCD-zYWO8LfgzRKv4X-OAA5Q&profile=pass
 #EXTINF:-1 tvg-id="5ead898d4d1469f1a810668a18ca5f78" mux-name="gdlist.m3u - 广东体育(高清)",广东体育(高清)
-http://l-ui.cn.qdxdh.com:59981/stream/channelid/1297215582?auth=PsAcjHFlH0pa7P9aEglKtCD-zYWO8LfgzRKv4X-OAA5Q&profile=pass
+http://tv.915667749.xyz:9988/stream/channelid/869096293?auth=PTNIssV7UhDrW1h5y0d0LIijQXC0&profile=pass
 #EXTINF:-1 logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="CCTV1" mux-name="tvlist.m3u - CCTV1",CCTV1
 http://l-ui.cn.qdxdh.com:59981/stream/channelid/1334309187?auth=PsAcjHFlH0pa7P9aEglKtCD-zYWO8LfgzRKv4X-OAA5Q&profile=pass
 #EXTINF:-1 logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-id="CCTV10" mux-name="tvlist.m3u - CCTV10",CCTV10
