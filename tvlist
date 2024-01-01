@@ -137,3 +137,23 @@ http://l-ui.cn.qdxdh.com:59981/stream/channelid/950925787?auth=PsAcjHFlH0pa7P9aE
 http://l-ui.cn.qdxdh.com:59981/stream/channelid/2128987599?auth=PsAcjHFlH0pa7P9aEglKtCD-zYWO8LfgzRKv4X-OAA5Q&profile=pass
 #EXTINF:-1 logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" tvg-id="黑龙江卫视" mux-name="tvlist.m3u - 黑龙江卫视",黑龙江卫视
 http://l-ui.cn.qdxdh.com:59981/stream/channelid/1663949832?auth=PsAcjHFlH0pa7P9aEglKtCD-zYWO8LfgzRKv4X-OAA5Q&profile=pass
+#EXTINF:-1,CCTV-5体育（高清）
+http://tv.915667749.xyz:9988/stream/channelid/1451635685?auth=PTNIssV7UhDrW1h5y0d0LIijQXC0&profile=pass
+#EXTINF:-1,CCTV5+（高清）
+http://tv.915667749.xyz:9988/stream/channelid/1156475624?auth=PTNIssV7UhDrW1h5y0d0LIijQXC0&profile=pass
+#EXTINF:-1,广东体育（高清）
+http://tv.915667749.xyz:9988/stream/channelid/869096293?auth=PTNIssV7UhDrW1h5y0d0LIijQXC0&profile=pass
+#EXTINF:-1,广东卫视
+http://tv.915667749.xyz:9988/stream/channelid/1491266256?auth=PTNIssV7UhDrW1h5y0d0LIijQXC0&profile=pass
+#EXTINF:-1,广东卫视（高清）
+http://tv.915667749.xyz:9988/stream/channelid/1280046281?auth=PTNIssV7UhDrW1h5y0d0LIijQXC0&profile=pass
+#EXTINF:-1,广东少儿
+http://tv.915667749.xyz:9988/stream/channelid/599922995?auth=PTNIssV7UhDrW1h5y0d0LIijQXC0&profile=pass
+#EXTINF:-1,广东影视
+http://tv.915667749.xyz:9988/stream/channelid/946613592?auth=PTNIssV7UhDrW1h5y0d0LIijQXC0&profile=pass
+#EXTINF:-1,广东新闻
+http://tv.915667749.xyz:9988/stream/channelid/1815369349?auth=PTNIssV7UhDrW1h5y0d0LIijQXC0&profile=pass
+#EXTINF:-1,广东民生
+http://tv.915667749.xyz:9988/stream/channelid/1812183627?auth=PTNIssV7UhDrW1h5y0d0LIijQXC0&profile=pass
+#EXTINF:-1,广东珠江（高清）
+http://tv.915667749.xyz:9988/stream/channelid/194492112?auth=PTNIssV7UhDrW1h5y0d0LIijQXC0&profile=pass
