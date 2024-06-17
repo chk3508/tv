@@ -44,7 +44,7 @@ http://l-ui.cn.qdxdh.com:59981/stream/channelid/558749842?auth=PsAcjHFlH0pa7P9aE
 #EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" tvg-id="380615a17bcc923716bdb97f773519bb" tvg-chno="0.24" group-title="大陆" mux-name="tvh.m3u - CCTV4-HD",CCTV4 HD
 http://l-ui.cn.qdxdh.com:59981/stream/channelid/1175048843?auth=PsAcjHFlH0pa7P9aEglKtCD-zYWO8LfgzRKv4X-OAA5Q&profile=pass
 #EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" tvg-id="631bc1f96eaee6fc20d7147c04292a53" tvg-chno="0.25" group-title="大陆" mux-name="tvh.m3u - CCTV5-HD",CCTV5 HD
-http://l-ui.cn.qdxdh.com:59981/stream/channelid/1008971687?auth=PsAcjHFlH0pa7P9aEglKtCD-zYWO8LfgzRKv4X-OAA5Q&profile=pass
+http://drive.hr.397o.com:808/node/iptv/CCTV5.mpeg
 #EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" tvg-id="14dbc2f4e55c0149dc714ff432eb50e4" tvg-chno="0.27" group-title="大陆" mux-name="tvh.m3u - CCTV6-HD",CCTV6 HD
 http://l-ui.cn.qdxdh.com:59981/stream/channelid/235228594?auth=PsAcjHFlH0pa7P9aEglKtCD-zYWO8LfgzRKv4X-OAA5Q&profile=pass
 #EXTINF:-1 logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" tvg-id="e1c3ad3e347674594dba107f14743adc" tvg-chno="0.28" group-title="大陆" mux-name="tvh.m3u - CCTV7-HD",CCTV7 HD
